@@ -43,7 +43,7 @@ hydejack:
     icon:              true
 
   offline:
-    enabled:           false
+    enabled:           true
     cache_version:     1
     precache_assets:
       - /assets/img/swipe.svg
