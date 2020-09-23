@@ -1,11 +1,18 @@
 ---
-layout: blog
-title: Blog
-description: >
-  The official Hydejack blog. Version updates, example content and how-to guides on how to blog with Jekyll.
-last_modified_at: 2018-08-03
-no_link_title: false 
-no_excerpt: false 
-hide_image: false
-cover: true
+layout: default
 ---
+
+<div class="posts">
+  {% for post in site.posts %}
+    <article class="post">
+
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+
+      <div class="entry">
+        {{ post.content }}
+      </div>
+
+
+    </article>
+  {% endfor %}
+</div>
