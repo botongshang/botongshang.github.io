@@ -1,5 +1,5 @@
 ---
-layout: research
+layout: about
 title: Research
 description: >
 menu: true

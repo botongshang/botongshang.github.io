@@ -1,5 +1,5 @@
 ---
-layout: teaching
+layout: about
 title: Teaching
 description: >
 menu: true
