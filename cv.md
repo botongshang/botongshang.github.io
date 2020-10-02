@@ -6,7 +6,7 @@ menu: true
 order: 3
 ---
 
-You can download my CV [here](https://botongshang.github.io/files/cv_botong.pdf).
+Please see my CV embedded below. You can also download my CV [here](https://botongshang.github.io/files/cv_botong.pdf).
 <br/><br/><br/>
 <object data="https://botongshang.github.io/files/cv_botong.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://botongshang.github.io/files/cv_botong.pdf">
