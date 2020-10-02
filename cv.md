@@ -6,7 +6,7 @@ menu: true
 order: 3
 ---
 
-test
+You can download my CV [here](https://botongshang.github.io/files/cv_botong.pdf).
 
 
 <object data="https://botongshang.github.io/files/cv_botong.pdf" type="application/pdf" width="700px" height="700px">
