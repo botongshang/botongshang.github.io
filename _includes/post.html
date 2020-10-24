@@ -1,0 +1,23 @@
+{% assign post = include.post %}
+{% assign link_title = include.link_title %}
+
+<article id="post{{ post.id | replace:'/','-' }}" class="page post{% if link_title %} mb6{% endif %}" role="article">
+  <header>
+    <h1 class="post-title">
+      {% if link_title %}<a href="{{ https://botongshang.github.io/ }}" class="flip-title">{% endif %}
+        {{ post.title }}
+      {% if link_title %}</a>{% endif %}
+    </h1>
+
+
+    {% include message.html text=post.description hide=page.hide_description %}
+  </header>
+
+  {% unless include.excerpt %}
+    {{ post.content }}
+  {% else %}
+    {{ post.excerpt }}
+    {% capture post_title %}<a class="heading flip-title" href="{{ https://botongshang.github.io/ }}">{{ post.title }}</a>{% endcapture %}
+
+  {% endunless %}
+</article>
