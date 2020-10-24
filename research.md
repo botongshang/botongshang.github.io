@@ -7,13 +7,13 @@ order: 1
 ---
 
 # Job Market Paper
-
-# Working Papers
-## Real Effects in the Option Market
+## Opportunistic Strategy in Corporate Fraud
 Botong Shang, September 2020. [Download](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3710224)
 
-> <div style="text-align: justify"> I develop and estimate, using hand-collected data, a game-theoretical model of strategic corporate fraud, that incorporates and quantifies firms' adjustments in fraud propensities in response to regulators' information processing capacity. The findings are economically significant. A one standard deviation change in different regulatory interventions is associated with an annual increase of 10 to 58 fraudulent cases. I exploit the 2005 option backdating scandal as an exogenous shock to regulatory attention, and find further support for both the opportunism in fraud and the deterrence effect. I document that fraudulent behavior is heterogeneous in executive incentives and firm complexity. 
+> <div style="text-align: justify"> I develop and estimate, using hand-collected data, a game-theoretical model of strategic corporate fraud, that incorporates and quantifies firms' adjustments in fraud propensities in response to regulators' information processing capacity. The findings are economically significant. A one standard deviation change in different regulatory interventions is associated with an annual increase of 10 to 58 fraudulent cases. I exploit the 2005 option backdating scandal as an exogenous shock to regulatory attention, and find further support for both the opportunism in fraud and the deterrence effect. I document that fraudulent behavior is heterogeneous in executive incentives and firm complexity.
 
+
+# Working Papers
 ## Real Effects in the Option Market
 Botong Shang, September 2020. [Download](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3710222)
 
